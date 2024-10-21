@@ -1,6 +1,6 @@
 # DECOMPY
 
-<img src="https://github.com/fvro/decompy/blob/master/logo/decompy_logo.png" width="20">
+<img src="https://github.com/fvro/decompy/blob/master/logo/decompy_logo.png" width="400">
 
 DecomPy is a fully Python-based software for modelling the mass decomposition of galactic rotation curves. It obtains best-fit parameters for the mass and distribution of baryonic and dark matter components with a nested sampling algorithm.
 
