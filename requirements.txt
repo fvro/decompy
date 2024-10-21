@@ -1,0 +1,10 @@
+astropy==4.1
+dill==0.3.4
+dataclasses==0.8
+dynesty==2.1.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.1.4
+reproject==0.7.1
+scipy==1.5.3
+GetDist==1.4.3
